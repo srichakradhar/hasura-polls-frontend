@@ -14,7 +14,7 @@ export const Header = () => (
   <header className="App-header displayFlex">
     <div className="container displayFlex">
       <img src={logo} className="App-logo" alt="logo" />
-      <h1 className="App-title">Realtime Poll</h1>
+      <h1 className="App-title">Poll Mama</h1>
     </div>
   </header>
 );
@@ -30,7 +30,7 @@ export const Footer = () => (
         />
       </a>
       &nbsp; | &nbsp;
-      <a href="https://realtime-poll.hasura.app/console" target="_blank">
+      <a href="https://pollmama.hasura.app/console" target="_blank">
         Backend
       </a>
       &nbsp; | &nbsp;
